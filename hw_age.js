@@ -17,3 +17,5 @@ else if (age_1 >= age_2 && age_1 < age_3) {
  else {
     console.log('Technical work')
  }
+
+ function age(){}
